@@ -1,0 +1,1 @@
+import{_ as e,g as a,c as s,t as c}from"./index-dQh9Ie9f.js";const n={props:{name:{type:String,required:!0}}},o={class:"tag-container"};function r(_,i,t,p,d,m){return a(),s("div",o,c(t.name),1)}const g=e(n,[["render",r],["__scopeId","data-v-68598c1b"]]);export{g as T};
